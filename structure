@@ -1,0 +1,6 @@
+amzn-stock-predictor/
+├── app.py                  ← Main Streamlit app (fixed & working!)
+├── amzn_lstm_model.h5      ← Trained LSTM model
+├── requirements.txt        ← All dependencies
+├── demo.gif                ← Demo animation
+└── README.md               ← This file
